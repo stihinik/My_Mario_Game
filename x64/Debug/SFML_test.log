@@ -1,0 +1,41 @@
+﻿  main.cpp
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(22): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(31): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(33): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(35): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(43): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(55): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(56): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(66): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\player.h(74): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(23): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(46): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(62): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(63): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(66): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\enemy.h(67): warning C4305: =: усечение из "double" в "float"
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\other_anim.h(21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\other_anim.h(24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\other_anim.h(29): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\other_anim.h(32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\statice_pic.h(46): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\statice_pic.h(47): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\statice_pic.h(54): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\statice_pic.h(55): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\main.cpp(62): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\pskuratov\desktop\project pavel\my_mario\my_mario\sfml_test\sfml_test\main.cpp(84): warning C4305: =: усечение из "double" в "float"
+  SFML_test.vcxproj -> C:\Users\PSkuratov\Desktop\Project Pavel\My_Mario\My_Mario\SFML_test\x64\Debug\SFML_test.exe
+  SFML_test.vcxproj -> C:\Users\PSkuratov\Desktop\Project Pavel\My_Mario\My_Mario\SFML_test\x64\Debug\SFML_test.pdb (Partial PDB)
